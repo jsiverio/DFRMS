@@ -10,7 +10,7 @@ include 'php/retrive_functions.php';
       name="viewport"
       content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
     />
-    <title>Dashboard - Brand</title>
+    <title>DFRMS</title>
     <link
       rel="stylesheet"
       href="assets/bootstrap/css/bootstrap.min.css?h=7470da02bba8729c43e35acfdde99166"
